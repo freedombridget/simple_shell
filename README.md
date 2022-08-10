@@ -4,5 +4,5 @@ This simple shell includes the basic functionality of a traditional Unix-like co
 
 ## Authors 🦖
 
-Freedom Bridget
+Freedom Bridget &&
 Abigail Anioke
